@@ -1,0 +1,102 @@
+
+---
+
+## **1. Personal Portfolio Website**
+
+**Purpose:** Learn structure, semantic HTML, links, multimedia, forms, and accessibility.
+
+### **Key Features to Implement**
+
+* **Header & Navigation:**
+
+  * `<header>`, `<nav>`
+  * Internal links to sections (`<a href="#about">About</a>`)
+
+* **About Section:**
+
+  * Headings `<h1>`–`<h3>`
+  * Paragraphs `<p>`
+  * Images `<img>` with `alt`
+  * Semantic `<section>` or `<article>`
+
+* **Projects/Portfolio Gallery:**
+
+  * Use `<figure>` and `<figcaption>` for each project
+  * Optional `<iframe>` for embedded demos or videos
+
+* **Skills List:**
+
+  * Ordered or unordered lists `<ul>` / `<ol>`
+  * Inline formatting `<strong>`, `<em>`
+
+* **Contact Form:**
+
+  * `<form>` with `<input>`, `<textarea>`, `<select>`, `<button>`
+  * Proper labels `<label>` and `required` fields
+  * Accessibility with ARIA roles
+
+* **Footer:**
+
+  * `<footer>` with social links and copyright
+
+### **HTML Topics Covered**
+
+* All basics, semantic HTML, links, images, multimedia, forms, accessibility, meta tags, and best practices.
+
+---
+
+
+
+
+
+## **2. Simple Blog / News Website**
+
+**Purpose:** Deepen HTML5 skills with tables, multimedia, and more structured content.
+
+### **Key Features to Implement**
+
+* **Header & Navigation:**
+
+  * Multiple pages linked via `<a>` tags
+  * Navigation `<nav>` with dropdown links
+
+* **Blog Articles:**
+
+  * `<article>` for each post
+  * `<section>` for categories
+  * `<header>` inside articles for titles and `<footer>` for author/date
+
+* **Tables:**
+
+  * Display post statistics (views, comments) using `<table>`
+  * Use `<thead>`, `<tbody>`, `<tfoot>` for clarity
+
+* **Embedded Multimedia:**
+
+  * Add `<video>` or `<audio>` in posts
+  * Optional `<iframe>` for maps or external media
+
+* **Comment Section / Form:**
+
+  * `<form>` with text inputs, radio buttons, checkboxes, and submit button
+  * Proper use of `<fieldset>` and `<legend>`
+
+* **Sidebar / Widgets:**
+
+  * `<aside>` for recent posts, tags, or ads
+  * Semantic lists `<ul>`
+
+* **Footer with Meta Information:**
+
+  * `<footer>` containing meta links, social icons, and contact info
+
+### **HTML Topics Covered**
+
+* Advanced semantic HTML, multimedia, forms, tables, links, lists, meta info, and accessibility.
+
+---
+
+✅ **Tip:** For both projects, you can **add CSS later** for styling and **JavaScript for interactivity**,
+ but focus first on **perfect, semantic, accessible HTML**.
+
+--
